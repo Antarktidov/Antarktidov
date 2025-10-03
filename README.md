@@ -8,4 +8,4 @@
 
 Мой основной проект: [MyLaravelWikiEngine](https://github.com/Antarktidov/MyLaravelWikiEngine)
 
-Читал книги по Computer Sciense, в числе которых есть Таненбаум.
+Читал книги по Computer Science, в числе которых есть Таненбаум.
