@@ -2,7 +2,7 @@
 
 Я PHP-разработчик. Мой стек:
 * Бэкэнд: Laravel, PHP, MySQL, Docker, PHPUnit
-* Фронтенд: Vue.js, JavaScript, CSS, HTML, TypeScript, JQuery
+* Фронтенд: Vue.js, JavaScript, CSS, HTML, TypeScript, Bootstrap, JQuery
 * Инструменты: git, Postman, вёрстка по figma
 * CMS: Wordpress, MediaWiki
 
